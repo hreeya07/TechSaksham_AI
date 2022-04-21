@@ -6,7 +6,7 @@
 #### Team Leader - Hreeya Singh
    **Team Member -** Nishu Kumari
 # Project Idea - Traffic Signs Recognition
-**Problem Statement:**
+### **Problem Statement:**
 
 In the world of Artificial Intelligence and advancement in 
 technologies, many researchers and big companies like Tesla, 
@@ -22,7 +22,7 @@ The annual global road crash statistics say that over 3,280 people
 die every day in a road accident. These numbers would be much 
 higher in case if there were no traffic signs.
 
-**Solution:**
+### **Solution:**
 
 Our approach to building this traffic sign classification model is discussed in four steps:
 ##### • Explore the dataset
@@ -39,7 +39,7 @@ a car can identify to increase. There are also app-based traffic sign recognitio
 could bring the technology to older vehicles.
 Any age group people can use this web - application to solve these issues easily.
 
-**Screenshots**
+### **Screenshots**
 
 
 ![Traffic2](https://user-images.githubusercontent.com/91070271/164505620-5073d9b8-5af0-42cd-8063-098294f065f2.JPG)
