@@ -39,7 +39,8 @@ a car can identify to increase. There are also app-based traffic sign recognitio
 could bring the technology to older vehicles.
 Any age group people can use this web - application to solve these issues easily.
 
-**Screenshots:**
+**Screenshots**
+
 
 ![Traffic2](https://user-images.githubusercontent.com/91070271/164505620-5073d9b8-5af0-42cd-8063-098294f065f2.JPG)
 ![Traffic1](https://user-images.githubusercontent.com/91070271/164505633-d8a601f8-7726-44e6-8de1-d81f5d2963aa.JPG)
