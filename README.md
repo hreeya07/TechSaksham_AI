@@ -5,7 +5,7 @@
 ### Team Name - Future Science
 #### Team Leader - Hreeya Singh
    **Team Member -** Nishu Kumari
-## Name of Project Idea - Traffic Signs Recognition
+## Project Idea - Traffic Signs Recognition
 **Problem Statement:**
 
 In the world of Artificial Intelligence and advancement in 
