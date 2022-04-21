@@ -1,5 +1,5 @@
 # TechSaksham_AI-CapstoneProject-by-Team_FutureScience-
-## TechSaksham Program by Edunet Foundation, Microsoft & SAP
+## TechSaksham Program by Microsoft, SAP & Edunet Foundation
 ## Course - Artificial Intelligence
 # Capstone Project 
 ### Team Name - Future Science
