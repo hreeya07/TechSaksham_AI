@@ -25,10 +25,10 @@ higher in case if there were no traffic signs.
 **Solution:**
 
 Our approach to building this traffic sign classification model is discussed in four steps:
-• Explore the dataset
-• Build a CNN model
-• Train and validate the model
-• Test the model with test dataset
+##### • Explore the dataset
+##### • Build a CNN model
+##### • Train and validate the model
+##### • Test the model with test dataset
 So, to fix all this issues, we want to create an web application and with the help of this we can avoid road 
 accidents.
 We will build a deep neural network model that can classify traffic signs present in the image into different 
@@ -40,3 +40,8 @@ could bring the technology to older vehicles.
 Any age group people can use this web - application to solve these issues easily.
 
 **Screenshots:**
+![Traffic2](https://user-images.githubusercontent.com/91070271/164505620-5073d9b8-5af0-42cd-8063-098294f065f2.JPG)
+![Traffic1](https://user-images.githubusercontent.com/91070271/164505633-d8a601f8-7726-44e6-8de1-d81f5d2963aa.JPG)
+![Traffic5](https://user-images.githubusercontent.com/91070271/164505651-c0ea2b97-fd42-438b-a85d-551ed51c9f86.JPG)
+![Traffic4](https://user-images.githubusercontent.com/91070271/164505674-765dab4f-d270-43d2-a260-43a40a5c11af.JPG)
+![Traffic3](https://user-images.githubusercontent.com/91070271/164505695-885bb0d7-dc0b-4a85-895e-dca97c512c59.JPG)
