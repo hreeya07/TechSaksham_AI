@@ -1,7 +1,7 @@
-# TechSaksham_AI-CapstoneProject-by-Team_FutureScience-
-## TechSaksham Program by Microsoft, SAP & Edunet Foundation
+# TechSaksham Program 
+**Provided by:** Microsoft, SAP & Edunet Foundation
 ## Course - Artificial Intelligence
-# Capstone Project 
+## Capstone Project 
 ### Team Name - Future Science
 #### Team Leader - Hreeya Singh
    **Team Member -** Nishu Kumari
