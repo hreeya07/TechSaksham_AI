@@ -48,7 +48,7 @@ Any age group people can use this web - application to solve these issues easily
 
 **IDE Used:** Jupyter Notebook
 
-**Technology Used:** Python, Pandas, OpenCV, TKinter
+**Technology Used:** Python, Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, PIL, Keras, OpenCV, TKinter
 
 ### **Screenshots**
 
