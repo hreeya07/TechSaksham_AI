@@ -5,7 +5,7 @@ TechSaksham is a program that aims to equip women with technical skills and enco
 The program particularly focuses on women because India has one of the youngest workforce in the world but with a large skill-gap with regards to the jobs of the future and an even higher gender disparity when it comes to STEM careers.
 
 
-## Course - Artificial Intelligence
+## Domain - Artificial Intelligence
 ## Capstone Project 
 ### Team Name - Future Science
 #### Team Leader - Hreeya Singh
