@@ -47,6 +47,7 @@ Any age group people can use this web - application to solve these issues easily
 
 
 **IDE Used:** Jupyter Notebook
+
 **Technology Used:** Python, Pandas, OpenCV, TKinter
 
 ### **Screenshots**
@@ -59,7 +60,7 @@ Any age group people can use this web - application to solve these issues easily
 ![Traffic3](https://user-images.githubusercontent.com/91070271/164505695-885bb0d7-dc0b-4a85-895e-dca97c512c59.JPG)
 
 
-Copyright (c) 2021-2022 HREEYA SINGH & NISHU KUMARI
+   Copyright (c) 2021-2022 HREEYA SINGH & NISHU KUMARI
 
 
-If you have any Queries or Suggestions, feel free to reach out to us:))
+   If you have any Queries or Suggestions, feel free to reach out to us:))
